@@ -13,7 +13,6 @@ This is an Android application developed as part of the "Vijay Assignment" proje
 - **Hilt Dependency Injection**: The app is set up with Hilt for dependency injection to manage dependencies efficiently.
 - **Data Fetching**: Integrates with a backend API to fetch movie and TV show details.
   
-## Setup and Installation
 
 ### Challenges Faced
 
