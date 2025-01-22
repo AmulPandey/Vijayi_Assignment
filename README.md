@@ -15,11 +15,15 @@ This is an Android application developed as part of the "Vijay Assignment" proje
   
 ## Setup and Installation
 
-### Prerequisites
+### Challenges Faced
 
-- Android Studio 2020.3.1 or later
-- JDK 11 or later
-- Android SDK and other required dependencies
+**Implementing Shimmer Effect**: Initially, I faced some issues with implementing a shimmer effect, but after experimenting with various approaches, I was able to make it work smoothly with Jetpack Compose.
+**Navigation**: Understanding the new way of handling navigation in Jetpack Compose was a bit challenging at first. However, once I got the hang of it, the Navigation Component turned out to be intuitive.
+**Data Handling with Hilt**: Setting up Hilt for Dependency Injection in the project was a new experience, and I had to spend some time understanding the proper configuration and annotations.
+
+### Assumptions Made
+**The project assumes that the API being used provides the necessary data in the expected format**.
+**Internet connectivity is required to fetch the movie and TV show data from the API**.
 
 ### Steps to Run the App
 
